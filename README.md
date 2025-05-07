@@ -74,8 +74,7 @@ Asegúrate de contar con lo siguiente antes de comenzar:
 
 5. **Despliegue**  
    * Realiza el despliegue con `wrangler deploy`.  
-    * Asegúrate de que tu `wrangler.toml` o `wrangler.jsonc` incluya los bindings de D1 y declare el nombre del secret (`API_KEY`), **pero nunca su valor**.  
-
+    * Asegúrate de que tu `wrangler.toml` o `wrangler.jsonc` incluya los bindings de D1.
 
 6. **Entrega de la URL pública**  
    * Incluye la **URL pública** de tu Worker en la descripción del Pull Request (ver sección 6).  
