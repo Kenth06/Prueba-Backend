@@ -92,7 +92,7 @@ Asegúrate de contar con lo siguiente antes de comenzar:
   [Guía de comandos: `wrangler dev`, `wrangler deploy`, `wrangler d1`, etc.](https://developers.cloudflare.com/workers/wrangler/)  
 
 * **Hono**  
-  [Uso con Cloudflare Workers]((https://hono.dev/docs/getting-started/cloudflare-workers))  
+  [Uso con Cloudflare Workers](https://hono.dev/docs/getting-started/cloudflare-workers)  
 
 * **Drizzle ORM**  
   [Sitio oficial](https://orm.drizzle.team/)  
